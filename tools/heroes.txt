@@ -1,0 +1,111 @@
+aba|Abaddon|str|aba
+admiral|Kunkka|str|kunka
+alc|Alchemist|str|alc
+axe|Axe|str|axe
+bala|Night Stalker|str|bala
+bara|Spirit Breaker|str|bara
+cloc|Clockwerk|str|cloc
+derevo|Treant Protector|str|derevo
+dk|Dragon Knight|str|drakon-knight
+doom|Doom Bringer|str|doom
+husk|Huskar|str|husk
+io|Io|str|wisp
+kaolin|Earth Spirit|str|kaolin
+kent|Centaur Warrunner|str|kent
+leoric|Skeleton King|str|leoric
+lycan|Lycan|str|lycan
+magnus|Magnataur|str|magnus
+naix|Lifestealer|str|naix
+nessai|Chaos Knight|str|nessai
+omnik|Omniknight|str|omnik
+panda|Brewmaster|str|panda
+phoenix|Phoenix|str|phoenix
+pit|Pit Lord|str|pit
+pudge|Pudge|str|pudge
+rexxar|Beastmaster|str|rexxar
+rezak|Timbersaw|str|rezak
+rigwarl|Bristleback|str|kaban
+scorp|Sand King|str|scorp
+shaker|Earthshaker|str|shaker
+slardar|Slardar|str|slardar
+sven|Sven|str|sven
+tauren|Tauren Chieftain|str|tauren
+tide|Tidehunter|str|tide
+tiny|Tiny|str|tiny
+tresdin|Legion Commander|str|tresdin
+tuskar|Tusk|str|tuskar
+zombie|Undying|str|zombie
+anubarak|Nyx Assassin|agi|anubarak
+bone|Clinkz|agi|bone
+geo|Meepo|agi|geo
+gondar|Bounty Hunter|agi|gondar
+lanaya|Templar Assassin|agi|lanaya
+lancer|Phantom Lancer|agi|lancer
+luna|Luna|agi|luna
+magina|Anti-Mage|agi|magina
+medusa|Medusa|agi|medusa
+mirana|Mirana|agi|mirana
+misha|Lone Druid|agi|misha
+morph|Morphling|agi|morph
+morta|Phantom Assassin|agi|morta
+nerub|Weaver|agi|nerub
+never|Shadow Fiend|agi|never
+razor|Razor|agi|razor
+rikimaru|Rikimaru|agi|rikimaru
+siker|Bloodseeker|agi|siker
+sirena|Naga Siren|agi|sirena
+slark|Slark|agi|slark
+sniper|Sniper|agi|sniper
+spectra|Spectre|agi|spectra
+spider|Broodmother|agi|spider
+terror|Terrorblade|agi|terror
+traxa|Drow Ranger|agi|traxa
+troll|Troll Warlord|agi|troll
+ursa|Ursa|agi|ursa
+venga|Vengeful Spirit|agi|venga
+venom|Venomancer|agi|venom
+vert|Gyrocopter|agi|vert
+viper|Viper|agi|viper
+void|Faceless Void|agi|void
+xin|Ember Spirit|agi|xin
+yura|Juggernaut|agi|yura
+akasha|Queen of Pain|int|akasha
+aparat|Ancient Apparition|int|aparat
+bane|Bane Elemental|int|bane
+bat|Batrider|int|bat
+chen|Chen|int|chen
+dazzle|Dazzle|int|dazzle
+destr|Outworld Devourer|int|destr
+enigma|Enigma|int|enigma
+fly|Puck|int|fly
+fura|Nature's Prophet|int|fura
+ice-dragon|Winter Wyvern|int|ice-dragon
+invoker|Invoker|int|invoker
+jakiro|Jakiro|int|jakiro
+kotel|Keeper of the Light|int|kotel
+koza|Enchantress|int|koza
+krobleus|Death Prophet|int|krobleus
+lich|Lich|int|lich
+lina|Lina|int|lina
+lion|Lion|int|lion
+loss|Leshrac|int|loss
+miner|Techies|int|miner
+necr|Necrolyte|int|necr
+nort|Silencer|int|nort
+ogr-mag|Ogre Magi|int|ogr-mag
+oracle|Oracle|int|oracle
+pugna|Pugna|int|pugna
+rasta|Shadow Shaman|int|rasta
+rubik|Rubick|int|rubik
+rylai|Crystal Maiden|int|rylai
+seer|Dark Seer|int|seer
+shadow-demon|Shadow Demon|int|shadow-demon
+sky|Skywrath Mage|int|sky
+storm|Storm Spirit|int|storm
+thrall|Disruptor|int|thrall
+tinker|Tinker|int|tinker
+visage|Visage|int|visage
+warlock|Warlock|int|warlock
+winda|Windrunner|int|winda
+witch-doctor|Witch Doctor|int|witch-doctor
+zeus|Zeus|int|zeus

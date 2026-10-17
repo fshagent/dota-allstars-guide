@@ -1,0 +1,20 @@
+{
+  "aba": {
+    "source": {
+      "name": "Dota683.net hero guide: Abaddon",
+      "url": "https://github.com/Eldor99/Dota_6.83/blob/main/infos/abaddon.html",
+      "note": "Copied from the Dota683.net guide data in the public repo Eldor99/Dota_6.83. Stats and description are from the same page."
+    },
+    "info": "A former paladin of great renown Abaddon fell into darkness during the invasion of the Burning Legion, becoming possessed by many demons, corrupting both his soul and his powers. Now a Death Knight set high in the Lich King's hierarchy of generals, he rides into battle against impossible odds, never stopping until he reaches the World Tree itself.",
+    "stats": ["Strength: 23 + 2.7","Agility: 17 + 1.5","Intelligence: 21 + 2.0","Attack range 128 (melee)","Movement speed 310"],
+    "order": [
+      {"icon":"img/skills/aba-2.png"},{"icon":"img/skills/aba-1.png"},{"icon":"img/skills/aba-2.png"},{"icon":"img/skills/aba-3.png"},{"icon":"img/skills/aba-2.png"},{"icon":"img/skills/aba-4.png"},{"icon":"img/skills/aba-2.png"},{"icon":"img/skills/aba-1.png"},{"icon":"img/skills/aba-1.png"},{"icon":"img/skills/aba-1.png"},{"icon":"img/skills/aba-4.png"},{"icon":"img/skills/aba-3.png"},{"icon":"img/skills/aba-3.png"},{"icon":"img/skills/aba-3.png"},{"icon":null},{"icon":"img/skills/aba-4.png"},{"icon":null}
+    ],
+    "builds": [{
+      "title": "Build",
+      "start": [{"id":"ring-of-r","name":"Ring of Regeneration"},{"id":"sobi-mask","name":"Sobi Mask"}],
+      "mid": [{"id":"phase-boots","name":"Phase Boots"},{"id":"vladimir","name":"Vladmir's Offering"},{"id":"vanguard","name":"Vanguard"}],
+      "end": [{"id":"phase-boots","name":"Phase Boots"},{"id":"vanguard","name":"Vanguard"},{"id":"taraska","name":"Heart of Tarrasque"},{"id":"sasha-yasha","name":"Sange and Yasha"},{"id":"shiva","name":"Shiva's Guard"},{"id":"cirassa","name":"Assault Cuirass"}]
+    }]
+  }
+}

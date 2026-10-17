@@ -66,3 +66,10 @@ h2{font-size:1.05rem;color:var(--gold);margin:22px 0 10px;text-transform:upperca
   .hero h1{font-size:2.1rem}
   .item{width:80px}.item img{width:64px;height:64px}.item span{font-size:.7rem}
 }
+.skillrow{display:flex;gap:10px;flex-wrap:wrap}
+.skillrow img{width:56px;height:56px;border-radius:6px}
+.plus{width:100%;max-width:56px;margin:0 auto;aspect-ratio:1;display:grid;place-items:center;border:1px dashed var(--line);border-radius:5px;color:var(--gold);font-size:1.4rem}
+.source{background:var(--panel2);border:1px solid var(--line);border-radius:10px;padding:10px 12px;margin:0 0 12px}
+.source a{color:var(--gold);text-decoration:underline;word-break:break-word}
+.source small{color:var(--mute)}
+.stats{color:var(--mute);padding-left:18px;margin:10px 0}
